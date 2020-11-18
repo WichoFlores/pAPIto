@@ -1,0 +1,21 @@
+.maps{
+  display: flex;
+  justify-content: center;
+}
+
+.maps h3 {
+  cursor: pointer;
+  margin: 15px;
+}
+
+.form {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
+  width: 180px;
+}
+
+.form input {
+  margin: 10px;
+}
